@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "question": "What is the meaning of 'Ephemeral'?",
+    "options": ["زائل", "دائم", "سريع", "ضعيف"],
+    "correct": 0
+  },
+  {
+    "id": 2,
+    "question": "What is the Arabic translation for 'Ineffable'?",
+    "options": ["غير قابل للوصف", "مؤلم", "غريب", "غاضب"],
+    "correct": 0
+  },
+  {
+    "id": 3,
+    "question": "Which of these words translates to 'Serendipity' in English?",
+    "options": ["حظ سعيد", "فرحة", "مفاجأة", "محبة"],
+    "correct": 0
+  },
+  {
+    "id": 4,
+    "question": "What is the meaning of 'Quintessential'?",
+    "options": ["جوهري", "أساسي", "غير ضروري", "غامض"],
+    "correct": 0
+  },
+  {
+    "id": 5,
+    "question": "What is the Arabic translation for 'Ebullient'?",
+    "options": ["مبتهج", "محبط", "هادئ", "غاضب"],
+    "correct": 0
+  },
+  {
+    "id": 6,
+    "question": "What is the meaning of 'Pernicious'?",
+    "options": ["مدمر", "بريء", "سريع", "قوي"],
+    "correct": 0
+  },
+  {
+    "id": 7,
+    "question": "What is the Arabic translation for 'Sagacious'?",
+    "options": ["حكيم", "جاهل", "شجاع", "متواضع"],
+    "correct": 0
+  },
+  {
+    "id": 8,
+    "question": "Which of these words translates to 'Superfluous' in English?",
+    "options": ["زائد عن الحاجة", "مهم", "مفيد", "أساسي"],
+    "correct": 0
+  },
+  {
+    "id": 9,
+    "question": "What is the meaning of 'Esoteric'?",
+    "options": ["غامض", "واضح", "مشترك", "معروف"],
+    "correct": 0
+  },
+  {
+    "id": 10,
+    "question": "What is the Arabic translation for 'Obfuscate'?",
+    "options": ["يعقد", "يبسط", "يوضح", "يحسن"],
+    "correct": 0
+  }
+]
